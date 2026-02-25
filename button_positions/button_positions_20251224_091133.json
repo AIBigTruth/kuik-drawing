@@ -1,0 +1,1506 @@
+[
+  {
+    "name": "矩形",
+    "type": "tool_button",
+    "button_id": "tool_button_矩形",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 182
+      },
+      "top_right": {
+        "x": 110,
+        "y": 182
+      },
+      "bottom_right": {
+        "x": 110,
+        "y": 214
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 214
+      },
+      "center": {
+        "x": 71,
+        "y": 198
+      },
+      "size": {
+        "width": 77,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "矩形",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "正方形",
+    "type": "tool_button",
+    "button_id": "tool_button_正方形",
+    "global_position": {
+      "top_left": {
+        "x": 114,
+        "y": 182
+      },
+      "top_right": {
+        "x": 192,
+        "y": 182
+      },
+      "bottom_right": {
+        "x": 192,
+        "y": 214
+      },
+      "bottom_left": {
+        "x": 114,
+        "y": 214
+      },
+      "center": {
+        "x": 153,
+        "y": 198
+      },
+      "size": {
+        "width": 78,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "正方形",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "圆形",
+    "type": "tool_button",
+    "button_id": "tool_button_圆形",
+    "global_position": {
+      "top_left": {
+        "x": 196,
+        "y": 182
+      },
+      "top_right": {
+        "x": 273,
+        "y": 182
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 214
+      },
+      "bottom_left": {
+        "x": 196,
+        "y": 214
+      },
+      "center": {
+        "x": 234,
+        "y": 198
+      },
+      "size": {
+        "width": 77,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "圆形",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "椭圆",
+    "type": "tool_button",
+    "button_id": "tool_button_椭圆",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 218
+      },
+      "top_right": {
+        "x": 110,
+        "y": 218
+      },
+      "bottom_right": {
+        "x": 110,
+        "y": 250
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 250
+      },
+      "center": {
+        "x": 71,
+        "y": 234
+      },
+      "size": {
+        "width": 77,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "椭圆",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "三角形",
+    "type": "tool_button",
+    "button_id": "tool_button_三角形",
+    "global_position": {
+      "top_left": {
+        "x": 114,
+        "y": 218
+      },
+      "top_right": {
+        "x": 192,
+        "y": 218
+      },
+      "bottom_right": {
+        "x": 192,
+        "y": 250
+      },
+      "bottom_left": {
+        "x": 114,
+        "y": 250
+      },
+      "center": {
+        "x": 153,
+        "y": 234
+      },
+      "size": {
+        "width": 78,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "三角形",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "五角星",
+    "type": "tool_button",
+    "button_id": "tool_button_五角星",
+    "global_position": {
+      "top_left": {
+        "x": 196,
+        "y": 218
+      },
+      "top_right": {
+        "x": 273,
+        "y": 218
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 250
+      },
+      "bottom_left": {
+        "x": 196,
+        "y": 250
+      },
+      "center": {
+        "x": 234,
+        "y": 234
+      },
+      "size": {
+        "width": 77,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "五角星",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "直线",
+    "type": "tool_button",
+    "button_id": "tool_button_直线",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 254
+      },
+      "top_right": {
+        "x": 110,
+        "y": 254
+      },
+      "bottom_right": {
+        "x": 110,
+        "y": 286
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 286
+      },
+      "center": {
+        "x": 71,
+        "y": 270
+      },
+      "size": {
+        "width": 77,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "直线",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "自由绘制",
+    "type": "tool_button",
+    "button_id": "tool_button_自由绘制",
+    "global_position": {
+      "top_left": {
+        "x": 114,
+        "y": 254
+      },
+      "top_right": {
+        "x": 192,
+        "y": 254
+      },
+      "bottom_right": {
+        "x": 192,
+        "y": 286
+      },
+      "bottom_left": {
+        "x": 114,
+        "y": 286
+      },
+      "center": {
+        "x": 153,
+        "y": 270
+      },
+      "size": {
+        "width": 78,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "自由绘制",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "梯形",
+    "type": "tool_button",
+    "button_id": "tool_button_梯形",
+    "global_position": {
+      "top_left": {
+        "x": 196,
+        "y": 254
+      },
+      "top_right": {
+        "x": 273,
+        "y": 254
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 286
+      },
+      "bottom_left": {
+        "x": 196,
+        "y": 286
+      },
+      "center": {
+        "x": 234,
+        "y": 270
+      },
+      "size": {
+        "width": 77,
+        "height": 32
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "梯形",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "红色",
+    "type": "color_button",
+    "button_id": "color_button_红色",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 363
+      },
+      "top_right": {
+        "x": 90,
+        "y": 363
+      },
+      "bottom_right": {
+        "x": 90,
+        "y": 397
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 397
+      },
+      "center": {
+        "x": 61,
+        "y": 380
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "红色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "黄色",
+    "type": "color_button",
+    "button_id": "color_button_黄色",
+    "global_position": {
+      "top_left": {
+        "x": 94,
+        "y": 363
+      },
+      "top_right": {
+        "x": 151,
+        "y": 363
+      },
+      "bottom_right": {
+        "x": 151,
+        "y": 397
+      },
+      "bottom_left": {
+        "x": 94,
+        "y": 397
+      },
+      "center": {
+        "x": 122,
+        "y": 380
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "黄色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "蓝色",
+    "type": "color_button",
+    "button_id": "color_button_蓝色",
+    "global_position": {
+      "top_left": {
+        "x": 155,
+        "y": 363
+      },
+      "top_right": {
+        "x": 212,
+        "y": 363
+      },
+      "bottom_right": {
+        "x": 212,
+        "y": 397
+      },
+      "bottom_left": {
+        "x": 155,
+        "y": 397
+      },
+      "center": {
+        "x": 183,
+        "y": 380
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "蓝色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "绿色",
+    "type": "color_button",
+    "button_id": "color_button_绿色",
+    "global_position": {
+      "top_left": {
+        "x": 216,
+        "y": 363
+      },
+      "top_right": {
+        "x": 273,
+        "y": 363
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 397
+      },
+      "bottom_left": {
+        "x": 216,
+        "y": 397
+      },
+      "center": {
+        "x": 244,
+        "y": 380
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "绿色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "黑色",
+    "type": "color_button",
+    "button_id": "color_button_黑色",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 401
+      },
+      "top_right": {
+        "x": 90,
+        "y": 401
+      },
+      "bottom_right": {
+        "x": 90,
+        "y": 439
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 439
+      },
+      "center": {
+        "x": 61,
+        "y": 420
+      },
+      "size": {
+        "width": 57,
+        "height": 38
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "黑色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "白色",
+    "type": "color_button",
+    "button_id": "color_button_白色",
+    "global_position": {
+      "top_left": {
+        "x": 94,
+        "y": 403
+      },
+      "top_right": {
+        "x": 151,
+        "y": 403
+      },
+      "bottom_right": {
+        "x": 151,
+        "y": 437
+      },
+      "bottom_left": {
+        "x": 94,
+        "y": 437
+      },
+      "center": {
+        "x": 122,
+        "y": 420
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "白色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "粉色",
+    "type": "color_button",
+    "button_id": "color_button_粉色",
+    "global_position": {
+      "top_left": {
+        "x": 155,
+        "y": 403
+      },
+      "top_right": {
+        "x": 212,
+        "y": 403
+      },
+      "bottom_right": {
+        "x": 212,
+        "y": 437
+      },
+      "bottom_left": {
+        "x": 155,
+        "y": 437
+      },
+      "center": {
+        "x": 183,
+        "y": 420
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "粉色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "紫色",
+    "type": "color_button",
+    "button_id": "color_button_紫色",
+    "global_position": {
+      "top_left": {
+        "x": 216,
+        "y": 403
+      },
+      "top_right": {
+        "x": 273,
+        "y": 403
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 437
+      },
+      "bottom_left": {
+        "x": 216,
+        "y": 437
+      },
+      "center": {
+        "x": 244,
+        "y": 420
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "紫色",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "1px",
+    "type": "width_button",
+    "button_id": "width_button_1px",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 516
+      },
+      "top_right": {
+        "x": 90,
+        "y": 516
+      },
+      "bottom_right": {
+        "x": 90,
+        "y": 550
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 550
+      },
+      "center": {
+        "x": 61,
+        "y": 533
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "1px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "2px",
+    "type": "width_button",
+    "button_id": "width_button_2px",
+    "global_position": {
+      "top_left": {
+        "x": 94,
+        "y": 516
+      },
+      "top_right": {
+        "x": 151,
+        "y": 516
+      },
+      "bottom_right": {
+        "x": 151,
+        "y": 550
+      },
+      "bottom_left": {
+        "x": 94,
+        "y": 550
+      },
+      "center": {
+        "x": 122,
+        "y": 533
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "2px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "3px",
+    "type": "width_button",
+    "button_id": "width_button_3px",
+    "global_position": {
+      "top_left": {
+        "x": 155,
+        "y": 516
+      },
+      "top_right": {
+        "x": 212,
+        "y": 516
+      },
+      "bottom_right": {
+        "x": 212,
+        "y": 550
+      },
+      "bottom_left": {
+        "x": 155,
+        "y": 550
+      },
+      "center": {
+        "x": 183,
+        "y": 533
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "3px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "5px",
+    "type": "width_button",
+    "button_id": "width_button_5px",
+    "global_position": {
+      "top_left": {
+        "x": 216,
+        "y": 516
+      },
+      "top_right": {
+        "x": 273,
+        "y": 516
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 550
+      },
+      "bottom_left": {
+        "x": 216,
+        "y": 550
+      },
+      "center": {
+        "x": 244,
+        "y": 533
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "5px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "8px",
+    "type": "width_button",
+    "button_id": "width_button_8px",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 554
+      },
+      "top_right": {
+        "x": 90,
+        "y": 554
+      },
+      "bottom_right": {
+        "x": 90,
+        "y": 588
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 588
+      },
+      "center": {
+        "x": 61,
+        "y": 571
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "8px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "10px",
+    "type": "width_button",
+    "button_id": "width_button_10px",
+    "global_position": {
+      "top_left": {
+        "x": 94,
+        "y": 554
+      },
+      "top_right": {
+        "x": 151,
+        "y": 554
+      },
+      "bottom_right": {
+        "x": 151,
+        "y": 588
+      },
+      "bottom_left": {
+        "x": 94,
+        "y": 588
+      },
+      "center": {
+        "x": 122,
+        "y": 571
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "10px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "15px",
+    "type": "width_button",
+    "button_id": "width_button_15px",
+    "global_position": {
+      "top_left": {
+        "x": 155,
+        "y": 554
+      },
+      "top_right": {
+        "x": 212,
+        "y": 554
+      },
+      "bottom_right": {
+        "x": 212,
+        "y": 588
+      },
+      "bottom_left": {
+        "x": 155,
+        "y": 588
+      },
+      "center": {
+        "x": 183,
+        "y": 571
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "15px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "20px",
+    "type": "width_button",
+    "button_id": "width_button_20px",
+    "global_position": {
+      "top_left": {
+        "x": 216,
+        "y": 554
+      },
+      "top_right": {
+        "x": 273,
+        "y": 554
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 588
+      },
+      "bottom_left": {
+        "x": 216,
+        "y": 588
+      },
+      "center": {
+        "x": 244,
+        "y": 571
+      },
+      "size": {
+        "width": 57,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "20px",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "0.1倍",
+    "type": "scale_button",
+    "button_id": "scale_button_0.1倍",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 665
+      },
+      "top_right": {
+        "x": 90,
+        "y": 665
+      },
+      "bottom_right": {
+        "x": 90,
+        "y": 694
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 694
+      },
+      "center": {
+        "x": 61,
+        "y": 679
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "10%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "0.2倍",
+    "type": "scale_button",
+    "button_id": "scale_button_0.2倍",
+    "global_position": {
+      "top_left": {
+        "x": 94,
+        "y": 665
+      },
+      "top_right": {
+        "x": 151,
+        "y": 665
+      },
+      "bottom_right": {
+        "x": 151,
+        "y": 694
+      },
+      "bottom_left": {
+        "x": 94,
+        "y": 694
+      },
+      "center": {
+        "x": 122,
+        "y": 679
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "20%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "0.3倍",
+    "type": "scale_button",
+    "button_id": "scale_button_0.3倍",
+    "global_position": {
+      "top_left": {
+        "x": 155,
+        "y": 665
+      },
+      "top_right": {
+        "x": 212,
+        "y": 665
+      },
+      "bottom_right": {
+        "x": 212,
+        "y": 694
+      },
+      "bottom_left": {
+        "x": 155,
+        "y": 694
+      },
+      "center": {
+        "x": 183,
+        "y": 679
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "30%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "0.5倍",
+    "type": "scale_button",
+    "button_id": "scale_button_0.5倍",
+    "global_position": {
+      "top_left": {
+        "x": 216,
+        "y": 665
+      },
+      "top_right": {
+        "x": 273,
+        "y": 665
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 694
+      },
+      "bottom_left": {
+        "x": 216,
+        "y": 694
+      },
+      "center": {
+        "x": 244,
+        "y": 679
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "50%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "0.8倍",
+    "type": "scale_button",
+    "button_id": "scale_button_0.8倍",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 698
+      },
+      "top_right": {
+        "x": 90,
+        "y": 698
+      },
+      "bottom_right": {
+        "x": 90,
+        "y": 727
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 727
+      },
+      "center": {
+        "x": 61,
+        "y": 712
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "80%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "1.0倍",
+    "type": "scale_button",
+    "button_id": "scale_button_1.0倍",
+    "global_position": {
+      "top_left": {
+        "x": 94,
+        "y": 698
+      },
+      "top_right": {
+        "x": 151,
+        "y": 698
+      },
+      "bottom_right": {
+        "x": 151,
+        "y": 727
+      },
+      "bottom_left": {
+        "x": 94,
+        "y": 727
+      },
+      "center": {
+        "x": 122,
+        "y": 712
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "100%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "1.1倍",
+    "type": "scale_button",
+    "button_id": "scale_button_1.1倍",
+    "global_position": {
+      "top_left": {
+        "x": 155,
+        "y": 698
+      },
+      "top_right": {
+        "x": 212,
+        "y": 698
+      },
+      "bottom_right": {
+        "x": 212,
+        "y": 727
+      },
+      "bottom_left": {
+        "x": 155,
+        "y": 727
+      },
+      "center": {
+        "x": 183,
+        "y": 712
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "110%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "1.2倍",
+    "type": "scale_button",
+    "button_id": "scale_button_1.2倍",
+    "global_position": {
+      "top_left": {
+        "x": 216,
+        "y": 698
+      },
+      "top_right": {
+        "x": 273,
+        "y": 698
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 727
+      },
+      "bottom_left": {
+        "x": 216,
+        "y": 727
+      },
+      "center": {
+        "x": 244,
+        "y": 712
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "120%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "1.3倍",
+    "type": "scale_button",
+    "button_id": "scale_button_1.3倍",
+    "global_position": {
+      "top_left": {
+        "x": 33,
+        "y": 731
+      },
+      "top_right": {
+        "x": 90,
+        "y": 731
+      },
+      "bottom_right": {
+        "x": 90,
+        "y": 760
+      },
+      "bottom_left": {
+        "x": 33,
+        "y": 760
+      },
+      "center": {
+        "x": 61,
+        "y": 745
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "130%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "1.5倍",
+    "type": "scale_button",
+    "button_id": "scale_button_1.5倍",
+    "global_position": {
+      "top_left": {
+        "x": 94,
+        "y": 731
+      },
+      "top_right": {
+        "x": 151,
+        "y": 731
+      },
+      "bottom_right": {
+        "x": 151,
+        "y": 760
+      },
+      "bottom_left": {
+        "x": 94,
+        "y": 760
+      },
+      "center": {
+        "x": 122,
+        "y": 745
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "150%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "1.8倍",
+    "type": "scale_button",
+    "button_id": "scale_button_1.8倍",
+    "global_position": {
+      "top_left": {
+        "x": 155,
+        "y": 731
+      },
+      "top_right": {
+        "x": 212,
+        "y": 731
+      },
+      "bottom_right": {
+        "x": 212,
+        "y": 760
+      },
+      "bottom_left": {
+        "x": 155,
+        "y": 760
+      },
+      "center": {
+        "x": 183,
+        "y": 745
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "180%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "2.0倍",
+    "type": "scale_button",
+    "button_id": "scale_button_2.0倍",
+    "global_position": {
+      "top_left": {
+        "x": 216,
+        "y": 731
+      },
+      "top_right": {
+        "x": 273,
+        "y": 731
+      },
+      "bottom_right": {
+        "x": 273,
+        "y": 760
+      },
+      "bottom_left": {
+        "x": 216,
+        "y": 760
+      },
+      "center": {
+        "x": 244,
+        "y": 745
+      },
+      "size": {
+        "width": 57,
+        "height": 29
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "200%",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "清空画布",
+    "type": "functional_button",
+    "button_id": "clear_btn",
+    "global_position": {
+      "top_left": {
+        "x": 294,
+        "y": 271
+      },
+      "top_right": {
+        "x": 410,
+        "y": 271
+      },
+      "bottom_right": {
+        "x": 410,
+        "y": 306
+      },
+      "bottom_left": {
+        "x": 294,
+        "y": 306
+      },
+      "center": {
+        "x": 352,
+        "y": 288
+      },
+      "size": {
+        "width": 116,
+        "height": 35
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "清空画布",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "保存绘图",
+    "type": "functional_button",
+    "button_id": "save_btn",
+    "global_position": {
+      "top_left": {
+        "x": 418,
+        "y": 271
+      },
+      "top_right": {
+        "x": 534,
+        "y": 271
+      },
+      "bottom_right": {
+        "x": 534,
+        "y": 306
+      },
+      "bottom_left": {
+        "x": 418,
+        "y": 306
+      },
+      "center": {
+        "x": 476,
+        "y": 288
+      },
+      "size": {
+        "width": 116,
+        "height": 35
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "保存绘图",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "输出按钮位置",
+    "type": "functional_button",
+    "button_id": "export_button_positions_btn",
+    "global_position": {
+      "top_left": {
+        "x": 294,
+        "y": 312
+      },
+      "top_right": {
+        "x": 534,
+        "y": 312
+      },
+      "bottom_right": {
+        "x": 534,
+        "y": 347
+      },
+      "bottom_left": {
+        "x": 294,
+        "y": 347
+      },
+      "center": {
+        "x": 414,
+        "y": 329
+      },
+      "size": {
+        "width": 240,
+        "height": 35
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "text": "输出按钮位置",
+    "timestamp": "2025-12-d 09:11:33"
+  },
+  {
+    "name": "鼠标坐标标签",
+    "type": "label",
+    "element_id": "mouse_coord_label",
+    "global_position": {
+      "top_left": {
+        "x": 294,
+        "y": 106
+      },
+      "top_right": {
+        "x": 534,
+        "y": 106
+      },
+      "bottom_right": {
+        "x": 534,
+        "y": 157
+      },
+      "bottom_left": {
+        "x": 294,
+        "y": 157
+      },
+      "center": {
+        "x": 414,
+        "y": 131
+      },
+      "size": {
+        "width": 240,
+        "height": 51
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "timestamp": "2025-12-24 09:11:33"
+  },
+  {
+    "name": "中心点标签",
+    "type": "label",
+    "element_id": "center_label",
+    "global_position": {
+      "top_left": {
+        "x": 294,
+        "y": 56
+      },
+      "top_right": {
+        "x": 534,
+        "y": 56
+      },
+      "bottom_right": {
+        "x": 534,
+        "y": 90
+      },
+      "bottom_left": {
+        "x": 294,
+        "y": 90
+      },
+      "center": {
+        "x": 414,
+        "y": 73
+      },
+      "size": {
+        "width": 240,
+        "height": 34
+      }
+    },
+    "is_enabled": true,
+    "is_visible": true,
+    "timestamp": "2025-12-24 09:11:33"
+  },
+  {
+    "name": "主窗口",
+    "type": "window",
+    "window_id": "main_window",
+    "global_position": {
+      "top_left": {
+        "x": -8,
+        "y": -8
+      },
+      "top_right": {
+        "x": 1912,
+        "y": -8
+      },
+      "bottom_right": {
+        "x": 1912,
+        "y": 1009
+      },
+      "bottom_left": {
+        "x": -8,
+        "y": 1009
+      },
+      "center": {
+        "x": 952,
+        "y": 500
+      },
+      "size": {
+        "width": 1920,
+        "height": 1017
+      }
+    },
+    "screen_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "timestamp": "2025-12-24 09:11:33"
+  }
+]
